@@ -43,7 +43,6 @@ public class UserController {
         }
         userservice.delete(ids);
         System.out.println("批量删除成功");
-        System.out.println("sjfjlsjdls");
         return  "redirect:/test/user";
     }
 
