@@ -46,6 +46,7 @@ public class UserController {
         System.out.println("我要吃饭了@@@@@@@@@@@@");
         System.out.println("wo jius yao sile 我死你，你妈妈妈妈妈妈们");
         System.out.println("huhuhuhuuhuh");
+        System.out.println("oooooooooooooooooooooooooooooo");
         return  "redirect:/test/user";
 
 
