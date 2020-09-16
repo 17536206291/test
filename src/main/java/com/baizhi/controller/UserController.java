@@ -44,6 +44,8 @@ public class UserController {
         userservice.delete(ids);
         System.out.println("批量删除成功");
         System.out.println("我要吃饭了@@@@@@@@@@@@");
+        System.out.println("wo jius yao sile ");
+        
         return  "redirect:/test/user";
     }
 
