@@ -45,8 +45,7 @@ public class UserController {
         System.out.println("批量删除成功");
         System.out.println("我要吃饭了@@@@@@@@@@@@");
         System.out.println("wo jius yao sile 我死你，你妈妈妈妈妈妈们");
-        System.out.println("huhuhuhuuhuh");
-        System.out.println("oooooooooooooooooooooooooooooo");
+        System.out.println("ggggggggggggggggggggggggggggggggg");
         return  "redirect:/test/user";
 
 
